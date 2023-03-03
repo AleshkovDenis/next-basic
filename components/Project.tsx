@@ -1,4 +1,4 @@
-import { Fragment } from "react";
+import { Fragment, FC } from "react";
 import Link from "next/link";
 
 import { Menu, Transition } from "@headlessui/react";
